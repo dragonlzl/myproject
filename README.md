@@ -1,3 +1,3 @@
 # myproject
-myproject \n
+myproject
 test
